@@ -25,7 +25,6 @@ Here are some ideas to get you started:
     <ul>
       <li>Deep Learning</li>
       <li>Front-end</li>
-      <li>정보처리기사</li>
       <li>Algorithm</li>
     </ul>
    </p>
