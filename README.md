@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 </div><br>
 
 <div style="display:flex; flex-direction:row;">
+  <a href="https://hyunarho.netlify.app/">Look my profile"</a>
+</div>
+
+<div style="display:flex; flex-direction:row;">
   <h3 align="left"> 📫 How to reach me:</h3>
     <p align="left">
       <a href="https://velog.io/@erica0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@erica0321"/></a>&nbsp
