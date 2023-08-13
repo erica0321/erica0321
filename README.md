@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="display:flex; flex-direction:row;">
-  <a href="https://hyunarho.netlify.app/"><h3 aligh="left">💬Look my profile</h3></a>
+  <a href="https://hyunarho.netlify.app/">💬Look my profile</a>
 </div>
 
 <div style="display:flex; flex-direction:row;">
