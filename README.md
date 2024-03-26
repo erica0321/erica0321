@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <h3 align="left">🌱 I’m currently learning</h3>
   <p align="left">
     <ul>
-      <li>Deep Learning</li>
+      <li>Back-end</li>
       <li>Front-end</li>
-      <li>Algorithm</li>
+      <li>Cloud</li>
     </ul>
    </p>
 </div><br>
