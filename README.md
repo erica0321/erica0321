@@ -45,15 +45,15 @@ Cloud
 </div>
 <br/>
 <br/>
-<br/>
 
+<!--
 #### 📫 How to reach me
 <div display="flex" gap="30px">
       <a href="https://velog.io/@erica0321"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@erica0321"/></a>
       <a href="mailto:erica0321@hufs.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=erica0321@hufs.ac.kr"/></a>
 </div>
-  
-<br/>
+-->
+
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ferica0321%2Fhit-counter&count_bg=%23A3C2FF&title_bg=%23232222&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
